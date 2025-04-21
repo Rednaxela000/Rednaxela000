@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rednaxela</h1>
-<h3 align="center">Passionate developer hailing from Germany, orchestrating complex systems and automations.</h3>
+<h3 align="center">Passionate developer hailing from Germany, creating systems and automations.</h3>
 
-- 🔭 I’m currently working on [SimpleConfigLib](https://github.com/Drachir000/SimpleConfigLib)
+- 🔭 I’m currently working on [SimpleConfigLib](https://github.com/Drachir000/SkyblockRPG)
 
 - 📫 How to reach me **t.rednaxela.000@gmail.com**
 
